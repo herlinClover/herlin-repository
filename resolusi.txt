@@ -1,0 +1,8 @@
+herlin resolusi
+1. menguasi html5
+2. menguasai css
+3. menguasai javascript
+4. menguasai css preprosesor
+5. menguasai css fremework
+6. menguasai node js
+7. menguasai react js
