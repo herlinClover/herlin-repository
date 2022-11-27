@@ -1,5 +1,4 @@
 herlin resolusi
-1. menguasi html5
 2. menguasai css
 3. menguasai javascript
 4. menguasai css preprosesor
@@ -7,3 +6,4 @@ herlin resolusi
 6. menguasai node js
 7. menguasai react js
 8. menjadi frond end web developer
+9. menjadi back end web developer
